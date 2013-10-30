@@ -13,6 +13,6 @@ A seed project combining AngularJs as the app engine, RequireJs for modular part
 ## Installation
 
     git clone git@github.com:cdeng/angular-requirejs-bower-bootstrap.git
-    cd angular-requirejs-bower-bootstra
+    cd angular-requirejs-bower-bootstrap
     npm install
     bower install

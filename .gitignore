@@ -215,7 +215,7 @@ pip-log.txt
 .mr.developer.cfg
 
 #IntelliJ
-/.idea
+.idea/
 
 #Bower
 bower_components
