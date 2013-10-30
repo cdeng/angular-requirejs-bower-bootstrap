@@ -216,9 +216,6 @@ pip-log.txt
 
 #IntelliJ
 .idea/
-/.idea
-.idea/*
-*.xml
 
 #Bower
 bower_components
